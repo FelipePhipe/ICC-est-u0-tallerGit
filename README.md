@@ -1,4 +1,4 @@
-# TALLER DE GUT
+# TALLER DE GIT
 
 ### NOMBRE/S
 
